@@ -1,0 +1,25 @@
+body{
+    background: linear-gradient(#55CDFC, #F7A8B8, white, #F7A8B8, #55CDFC)
+}
+
+h1{
+    color: #613291;
+    font-family: sans-serif;
+}
+
+h3{
+    color: blueviolet;
+    font-family: sans-serif;
+}
+button{
+    font-family: fantasy;
+    color: deeppink;
+    background-color: transparent;
+    border-color: #F7A8B8;
+    border: 3px;
+    font-size: 25px;
+    text-align: center;
+}
+p{
+    font-family: sans-serif;
+}
