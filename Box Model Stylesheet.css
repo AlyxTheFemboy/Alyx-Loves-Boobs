@@ -3,15 +3,15 @@ body{
 }
 
 h1{
+    text-align: center;
     color: #613291;
     font-family: sans-serif;
-    text-align: center;
 }
 
 h3{
+    text-align: center;
     color: blueviolet;
     font-family: sans-serif;
-    text-align: center;
 }
 p{
     color: black;
