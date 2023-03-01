@@ -11,6 +11,10 @@ h3{
     color: blueviolet;
     font-family: sans-serif;
 }
+p{
+    color: black;
+    font-family: sans-serif;
+}
 button{
     font-family: fantasy;
     color: deeppink;
@@ -19,8 +23,4 @@ button{
     border: 3px;
     font-size: 25px;
     text-align: center;
-}
-p{
-    font-family: sans-serif;
-    color: black;
 }
