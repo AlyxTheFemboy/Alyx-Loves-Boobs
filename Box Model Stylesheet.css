@@ -5,11 +5,13 @@ body{
 h1{
     color: #613291;
     font-family: sans-serif;
+    text-align: center;
 }
 
 h3{
     color: blueviolet;
     font-family: sans-serif;
+    text-align: center;
 }
 p{
     color: black;
