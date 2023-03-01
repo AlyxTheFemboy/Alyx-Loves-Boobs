@@ -16,12 +16,11 @@ h1{
 h2{
     text-align: center;
     font-family: fantasy;
-    color: #F7A8B8;
+    color: #613291;
     text-decoration:wavy;
     border-style: dashed;
     border-width: medium;
     border-color: #613291;
-    text-shadow:5px 0 0 #613291, 0 5px 0 #613291,-0px 0 0 #613291,0 -0px #613291;
 }
 p{
     text-align: center;
